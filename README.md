@@ -6,6 +6,6 @@ A dedicated full-stack software engineer who started coding from day one while s
 
 ### 🧰 Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=go,nodejs,dotnet,nextjs,react,ts,docker,mysql,postgres,mongodb,linux,js,html,css,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,nodejs,dotnet,nextjs,react,ts,docker,mysql,postgres,mongodb,linux,gitlab,js,html,css,cpp)](https://skillicons.dev)
 
 
