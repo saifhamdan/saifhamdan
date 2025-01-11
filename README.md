@@ -2,7 +2,11 @@
 
 **`Full Stack Software Engineer`**
 
-A dedicated full-stack software engineer who started coding from day one while studying computer information systems, I possess a wealth of experience in developing applications from the ground up using various programming languages such as Golang, NodeJS with MERN stack, and .NET Core. My proficiency in object-oriented programming, data structures, and algorithms and participation in multiple programming competitions have honed my problem-solving skills. My primary focus is on software engineering, system design, and architecture, although I remain eager to expand my knowledge and adapt to new technologies and diverse work environments. Having hands-on experience in micro-services, protocol buffer & gRPC, docker, messaging system, and building real-time applications, A firm grasp of DevOps and Docker principles with good knowledge of git & GitLab. Moreover, My expertise extends to the JavaScript ecosystem and web development technologies, where I remain abreast of the latest trends and advancements.
+A passionate full-stack software engineer experienced in building products A-Z from the ground up, acting as a team lead despite my young age. My expertise lies in crafting robust, scalable solutions with a focus on event-driven architecture and real-time applications. Proficient in system design, microservices, and the JavaScript ecosystem, I thrive in dynamic environments, always eager to adopt the latest technologies.
+
+I love and enjoy coding with Go and solving real-world complex problems utilizing Go's simplicity, efficiency, and all the capabilities it offers on the table.
+
+Yes, I'm a Go enthusiast :D
 
 ### 🧰 Languages and Tools
 
