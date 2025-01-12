@@ -2,7 +2,7 @@
 
 **`Full Stack Software Engineer`**
 
-A passionate full-stack software engineer experienced in building products A-Z from the ground up, acting as a team lead despite my young age. My expertise lies in crafting robust, scalable solutions with a focus on event-driven architecture and real-time applications. Proficient in system design, microservices, and the JavaScript ecosystem, I thrive in dynamic environments, always eager to adopt the latest technologies.
+A passionate full-stack software engineer experienced in building products A-Z from the ground up, scalable solutions with a focus on event-driven architecture and real-time applications. Proficient in system design, microservices, and the JavaScript ecosystem, I thrive in dynamic environments, always eager to adopt the latest technologies.
 
 I love and enjoy coding with Go and solving real-world complex problems utilizing Go's simplicity, efficiency, and all the capabilities it offers on the table.
 
