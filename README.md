@@ -10,7 +10,7 @@ Yes, I'm a Go enthusiast :D
 
 ### 🧰 Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=go,nodejs,dotnet,nextjs,react,ts,docker,mysql,postgres,mongodb,linux,gitlab,js,html,css,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,nodejs,dotnet,nextjs,react,ts,vite,tailwind,pnpm,docker,mysql,postgres,mongodb,linux,gitlab,js,html,css,cpp)](https://skillicons.dev)
 
 
 ### 📨 Contact Me
